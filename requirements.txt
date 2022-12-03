@@ -1,0 +1,1 @@
+For the purposes of this project, please install PyTorch, Munkres and download the ImageNet dataset. This code has been developed with python version 3.9.7, PyTorch version 1.10.0, CUDA 11.2 and torchvision 0.11.0. 
